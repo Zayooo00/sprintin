@@ -1,0 +1,102 @@
+body {
+    display: flex;
+    background: #333333;
+    justify-content: center;
+    align-items: center;
+    padding: 3dvh;
+    margin: 0;
+}
+.container,
+.container * {
+  box-sizing: border-box;
+}
+.container {
+  background: #1e1e1e;
+  width: 360px;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+}
+.mobile-screen {
+    border: 3px solid rgb(102, 102, 102);
+    border-radius: 5px;
+    width: 360px;
+    height: 800px;
+    position: relative;
+    background: #1E1E1E;
+}
+.header {
+  background: #000000;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0px 0px 1px 0px;
+  width: 360px;
+  height: 65px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.drawer-button {
+  width: 30px;
+  height: 32px;
+  position: absolute;
+  left: 20px;
+  top: 16px;
+}
+.drawer-icon {
+  position: absolute;
+  left: 6px;
+  top: 12px;
+  overflow: visible;
+}
+.button-border {
+  border-radius: 6px;
+  border-style: solid;
+  border-color: #938e8e;
+  border-width: 1px;
+  width: 30px;
+  height: 32px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.settings-button {
+  width: 30px;
+  height: 32px;
+  position: absolute;
+  left: 310px;
+  top: 16px;
+}
+.settings-icon-1 {
+  border-radius: 5px 5px 0px 0px;
+  border-style: solid;
+  border-color: #d2d2d2;
+  border-width: 1px;
+  width: 18px;
+  height: 11.5px;
+  position: absolute;
+  left: 6px;
+  top: 15.5px;
+}
+.settings-icon-2 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #d2d2d2;
+  border-width: 1px;
+  width: 10px;
+  height: 9.58px;
+  position: absolute;
+  left: 10px;
+  top: 4px;
+}
+.start-icon {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #938e8e;
+  border-width: 1px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  left: 158px;
+  top: 10px;
+}

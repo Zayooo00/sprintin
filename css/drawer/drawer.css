@@ -1,0 +1,222 @@
+.runner-image {
+  position: absolute;
+  left: 0px;
+  top: 163px;
+}
+.runner-bg{
+  width: 439px;
+  height: 1079px;
+  position: absolute;
+  left: 371px;
+  top: 336px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+}
+.background-gradient {
+  background: linear-gradient(
+    180deg,
+    rgba(149, 149, 149, 1) 0%,
+    rgba(30, 30, 30, 0) 100%
+  );
+  width: 360px;
+  height: 735px;
+  position: absolute;
+  left: 0px;
+  top: 65px;
+}
+.elevation-rectangle {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #758595;
+  border-width: 1px;
+  width: 320px;
+  height: 46px;
+  position: absolute;
+  left: 20px;
+  top: 309px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.pulse-rectangle {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #758595;
+  border-width: 1px;
+  width: 320px;
+  height: 46px;
+  position: absolute;
+  left: 20px;
+  top: 253px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.calories-rectangle {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #758595;
+  border-width: 1px;
+  width: 320px;
+  height: 46px;
+  position: absolute;
+  left: 20px;
+  top: 197px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.distance-rectangle {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #758595;
+  border-width: 1px;
+  width: 320px;
+  height: 46px;
+  position: absolute;
+  left: 20px;
+  top: 142px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.headbar {
+  background: #000000;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0px 0px 1px 0px;
+  width: 360px;
+  height: 65px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.weight-rectangle {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #758595;
+  border-width: 1px;
+  width: 320px;
+  height: 49px;
+  position: absolute;
+  left: 20px;
+  top: 83px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.weight-text {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Abel", sans-serif;
+  position: absolute;
+  left: 66px;
+  top: 97px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.distance-text {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Abel", sans-serif;
+  position: absolute;
+  left: 66px;
+  top: 152px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.calories-text {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Abel", sans-serif;
+  position: absolute;
+  left: 66px;
+  top: 210px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.pulse-text {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Abel", sans-serif;
+  position: absolute;
+  left: 66px;
+  top: 265px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.elevation-text {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Abel", sans-serif;
+  position: absolute;
+  left: 66px;
+  top: 321px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.return-button {
+  width: 30px;
+  height: 32px;
+  position: absolute;
+  left: 310px;
+  top: 16px;
+}
+.group-32 {
+  position: absolute;
+  left: 2.27px;
+  top: 16px;
+  transform: translate(0px, -12.73px);
+  overflow: visible;
+}
+.calories-icon {
+  border-radius: 5px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 27px;
+  top: 206px;
+}
+.weight-icon {
+  border-radius: 5px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 26px;
+  top: 93px;
+}
+.distance-icon {
+  border-radius: 5px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 26px;
+  top: 149px;
+}
+.pulse-icon {
+  border-radius: 5px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 27px;
+  top: 262px;
+}
+.elevation-icon {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 27px;
+  top: 317px;
+}
+.divider {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 320px;
+  height: 0px;
+  position: absolute;
+  left: 20px;
+  top: 369px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}

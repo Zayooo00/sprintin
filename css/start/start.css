@@ -1,0 +1,152 @@
+.container,
+.container * {
+  box-sizing: border-box;
+}
+.container {
+  background: #1e1e1e;
+  width: 360px;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+}
+.runner-image {
+    border-radius: 20px;
+    width: 320px;
+    height: 400px;
+    position: absolute;
+    left: 20px;
+    top: 106px;
+  }
+  .main-text {
+    color: #ffffff;
+    text-align: center;
+    font: 200 24px "Gothic A1", sans-serif;
+    position: absolute;
+    left: 20px;
+    top: 513px;
+    width: 320px;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .sub-text {
+    color: #ffffff;
+    text-align: center;
+    font: 200 15px "Gothic A1", sans-serif;
+    position: absolute;
+    left: 20px;
+    top: 568px;
+    width: 320px;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .footer {
+    background: #000000;
+    width: 360px;
+    height: 155px;
+    position: absolute;
+    left: 0px;
+    top: 645px;
+  }
+  .footer-text-1 {
+    color: #ffffff;
+    text-align: center;
+    font: 200 12px "Gothic A1", sans-serif;
+    position: absolute;
+    left: 20px;
+    top: 653px;
+    width: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .github-icon {
+    border-radius: 50%;
+    width: 40.16px;
+    height: 40.16px;
+    position: absolute;
+    left: 271.84px;
+    top: 681px;
+  }
+  .pinterest-icon {
+    border-radius: 50%;
+    width: 40.16px;
+    height: 40.16px;
+    position: absolute;
+    left: 217.23px;
+    top: 681px;
+  }
+  .instagram-icon {
+    border-radius: 50%;
+    width: 40.16px;
+    height: 40.16px;
+    position: absolute;
+    left: 162.62px;
+    top: 681px;
+  }
+  .googleplay-bg {
+    background: #ffffff;
+    border-radius: 50%;
+    width: 40.16px;
+    height: 40.16px;
+    position: absolute;
+    left: 109.61px;
+    top: 681px;
+  }
+  .googleplay-icon {
+    width: 27px;
+    height: 30px;
+    position: absolute;
+    left: 119px;
+    top: 686.16px;
+  }
+  .facebook-icon {
+    border-radius: 20px;
+    width: 42px;
+    height: 40px;
+    position: absolute;
+    left: 54px;
+    top: 681px;
+  }
+  .footer-text-2 {
+    color: #696969;
+    text-align: center;
+    font: 300 10px "Gothic A1", sans-serif;
+    position: absolute;
+    left: 20px;
+    top: 732px;
+    width: 320px;
+    height: 12px;
+  }
+  .mobile-option-1 {
+    position: absolute;
+    left: 62px;
+    top: 769px;
+    overflow: visible;
+  }
+  .mobile-option-2 {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 2px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 170px;
+    top: 768px;
+  }
+  .mobile-option-3 {
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 2px;
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    left: 284px;
+    top: 768px;
+  }
+  

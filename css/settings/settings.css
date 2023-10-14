@@ -1,0 +1,414 @@
+input[type="text"] {
+    background: none;
+    border: none;
+    color: #ffffff;
+    text-align: left;
+    font: 600 12px "Gothic A1", sans-serif;
+    width: 52px;
+    height: 16px;
+  }
+
+.heading {
+  color: #ffffff;
+  text-align: left;
+  font: 700 24px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 95px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.category-text-1 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 15px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 147px;
+  width: 261px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.divider-1 {
+  border-style: solid;
+  border-color: #3a3a3a;
+  border-width: 1px 0 0 0;
+  width: 320px;
+  height: 0px;
+  position: absolute;
+  left: 20px;
+  top: 172px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.category-text-2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 15px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 257px;
+  width: 261px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.divider-2 {
+  border-style: solid;
+  border-color: #3a3a3a;
+  border-width: 1px 0 0 0;
+  width: 320px;
+  height: 0px;
+  position: absolute;
+  left: 20px;
+  top: 282px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.input-border-1 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 150px;
+  height: 35px;
+  position: absolute;
+  left: 20px;
+  top: 192px;
+}
+.input-border-2 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 150px;
+  height: 35px;
+  position: absolute;
+  left: 190px;
+  top: 192px;
+}
+.label-bg-2 {
+  background: #1e1e1e;
+  width: 38px;
+  height: 16px;
+  position: absolute;
+  left: 205px;
+  top: 184px;
+}
+.label-text-2 {
+  color: #d2d2d2;
+  text-align: left;
+  font: 400 12px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 205px;
+  top: 184px;
+  width: 38px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.label-bg-1 {
+  background: #1e1e1e;
+  width: 48px;
+  height: 16px;
+  position: absolute;
+  left: 35px;
+  top: 184px;
+}
+.label-text-1 {
+  color: #d2d2d2;
+  text-align: left;
+  font: 400 12px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 35px;
+  top: 184px;
+  width: 48px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.distance-input {
+  color: #ffffff;
+  text-align: left;
+  font: 600 12px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 35px;
+  top: 203px;
+  width: 57px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.input-border-5 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 150px;
+  height: 35px;
+  position: absolute;
+  left: 20px;
+  top: 365px;
+}
+.label-bg-5 {
+  background: #1e1e1e;
+  width: 22px;
+  height: 16px;
+  position: absolute;
+  left: 35px;
+  top: 357px;
+}
+.label-text-5 {
+  color: #d2d2d2;
+  text-align: left;
+  font: 400 12px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 35px;
+  top: 357px;
+  width: 22px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.age-input {
+  color: #ffffff;
+  text-align: left;
+  font: 600 12px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 35px;
+  top: 376px;
+  width: 48px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.input-border-6 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 150px;
+  height: 35px;
+  position: absolute;
+  left: 190px;
+  top: 365px;
+}
+.label-bg-6 {
+  background: #1e1e1e;
+  width: 40px;
+  height: 16px;
+  position: absolute;
+  left: 205px;
+  top: 357px;
+}
+.label-text-6 {
+  color: #d2d2d2;
+  text-align: left;
+  font: 400 12px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 205px;
+  top: 357px;
+  width: 40px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.gender-input {
+  color: #ffffff;
+  text-align: left;
+  font: 600 12px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 205px;
+  top: 376px;
+  width: 48px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.input-border-4 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 150px;
+  height: 35px;
+  position: absolute;
+  left: 190px;
+  top: 302px;
+}
+.label-bg-4 {
+  background: #1e1e1e;
+  width: 38px;
+  height: 16px;
+  position: absolute;
+  left: 205px;
+  top: 294px;
+}
+.label-text-4 {
+  color: #d2d2d2;
+  text-align: left;
+  font: 400 12px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 205px;
+  top: 294px;
+  width: 38px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.weight-input-2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 12px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 205px;
+  top: 313px;
+  width: 48px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.input-border-3 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 150px;
+  height: 35px;
+  position: absolute;
+  left: 20px;
+  top: 302px;
+}
+.label-bg-3 {
+  background: #1e1e1e;
+  width: 37px;
+  height: 16px;
+  position: absolute;
+  left: 35px;
+  top: 294px;
+}
+.label-text-3 {
+  color: #d2d2d2;
+  text-align: left;
+  font: 400 12px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 35px;
+  top: 294px;
+  width: 37px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.height-input {
+  color: #ffffff;
+  text-align: left;
+  font: 600 12px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 35px;
+  top: 313px;
+  width: 48px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.weight-input-1 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 12px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 205px;
+  top: 203px;
+  width: 35px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.category-text-3 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 15px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 430px;
+  width: 261px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.divider-3 {
+  border-style: solid;
+  border-color: #3a3a3a;
+  border-width: 1px 0 0 0;
+  width: 320px;
+  height: 0px;
+  position: absolute;
+  left: 20px;
+  top: 455px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.input-border-7 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 320px;
+  height: 39px;
+  position: absolute;
+  left: 20px;
+  top: 475px;
+}
+.label-bg-7 {
+  background: #1e1e1e;
+  width: 47px;
+  height: 16px;
+  position: absolute;
+  left: 35px;
+  top: 467px;
+}
+.label-text-7 {
+  color: #d2d2d2;
+  text-align: left;
+  font: 400 12px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 35px;
+  top: 467px;
+  width: 47px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.selection-input {
+  color: #ffffff;
+  text-align: left;
+  font: 600 12px "Gothic A1", sans-serif;
+  position: absolute;
+  left: 35px;
+  top: 486px;
+  width: 74px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.dropdown-icon {
+  position: absolute;
+  left: 316px;
+  top: 492px;
+  overflow: visible;
+}
